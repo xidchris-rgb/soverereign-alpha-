@@ -1,0 +1,6 @@
+{
+  "name": "VEX",
+  "description": "Interactive venture portfolio, building console, and advisory studio for VEX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
